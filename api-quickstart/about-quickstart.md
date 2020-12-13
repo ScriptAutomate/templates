@@ -8,9 +8,9 @@ They should not delve into optimizations or advanced use cases.
 
 ### Prerequisites
 
-* What knowledge do readers need before they begin
-* What tasks do they need to complete (for example, software installation, environment configuration)
-* Where to get tokens or API keys, if needed
+- What knowledge do readers need before they begin
+- What tasks do they need to complete (for example, software installation, environment configuration)
+- Where to get tokens or API keys, if needed
 
 ### The main body
 
@@ -29,8 +29,8 @@ Do not include content that belongs in the overview, including a general descrip
 
 ### Post-requisites
 
-* What comes next?
+- What comes next?
 
 ## Links to examples
 
-* **Jekyll**. [This SSG](https://jekyllrb.com/docs/) offers a good example of a Quick Start. Note that the setup info is in a separate document, and linked to in the first step.
+- **Jekyll**. [This SSG](https://jekyllrb.com/docs/) offers a good example of a Quick Start. Note that the setup info is in a separate document, and linked to in the first step.

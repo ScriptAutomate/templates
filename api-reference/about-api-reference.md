@@ -12,16 +12,16 @@ The reference section should contain a full listing of endpoints, methods, and p
 
 Each reference listing should contain:
 
-* A general description of the endpoint, including what it's for, and what it can do
-* The HTTP method, if applicable
-* An example of the syntax
-* All the parameters for the endpoint
+- A general description of the endpoint, including what it's for, and what it can do
+- The HTTP method, if applicable
+- An example of the syntax
+- All the parameters for the endpoint
 
 For each parameter, include:
 
-* An example request
-* An example response
-* The response schema
+- An example request
+- An example response
+- The response schema
 
 ## Best practices for reference docs
 
@@ -29,11 +29,11 @@ Each detailed reference entry should contain all the information readers need to
 
 For parameters, include:
 
-* Name of the parameter
-* Description of what the parameter does and when to use it
-* Data type
-* All the acceptable values, if there is a limited set of options
-* Whether the parameter is required or optional
+- Name of the parameter
+- Description of what the parameter does and when to use it
+- Data type
+- All the acceptable values, if there is a limited set of options
+- Whether the parameter is required or optional
 
 Differentiate the endpoint from other similar endpoints. If more than one endpoint or parameter can achieve the same result, explain which one to use in what situation, as each probably exists for a specific reason.
 

@@ -4,8 +4,8 @@
 
 Before you begin, make sure you meet these prerequisites:
 
-* Pre-requisite one
-* Pre-requisite two
+- Pre-requisite one
+- Pre-requisite two
 
 ## Get started
 

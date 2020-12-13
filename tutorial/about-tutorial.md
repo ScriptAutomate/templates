@@ -12,9 +12,9 @@ If you find your tutorial has a single main procedure, consider using a How To t
 
 Summarize what the reader will achieve by reading the explanation article.
 
-* Are you writing for developers or for managers?
-* Are you writing for people who have a certain problem to solve?
-* Are you writing for a particular industry or market segment?
+- Are you writing for developers or for managers?
+- Are you writing for people who have a certain problem to solve?
+- Are you writing for a particular industry or market segment?
 
 Readers should already have read a concept about the topic in an About article.
 Ensure you link to the relevant About article in the overview.
@@ -23,12 +23,12 @@ Ensure you link to the relevant About article in the overview.
 
 Tutorial articles work well when they are:
 
-* Built around specific outcomes or actions
-* Develop practical knowledge, not theoretical knowledge
-* Inspire confidence by showing progress towards the tutorial goal at each main step
-* Give a feeling of achievement by being clear about the results of each main step
-* Work as described on all the supported platforms
-* Exclude distractions that make your audience have to choose a path in the tutorial
+- Built around specific outcomes or actions
+- Develop practical knowledge, not theoretical knowledge
+- Inspire confidence by showing progress towards the tutorial goal at each main step
+- Give a feeling of achievement by being clear about the results of each main step
+- Work as described on all the supported platforms
+- Exclude distractions that make your audience have to choose a path in the tutorial
 
 ### The Goal section
 
@@ -49,12 +49,11 @@ For example:
 ```markdown
 Before you begin, make sure you meet these prerequisites:
 
-* API credentials for the v3.5 API. For more information about accessing your API credentials, see http://example.com/access_your_api_credentials.
-* Access to the Postman application.
-* A conceptual understanding about RESTful APIs. For more information, see http://example.com/restful_apis.
-* (Optional) A development environment (IDE) that displays API responses formatted for readability.
-* A list of favorites prepared, so you can manage them. For more information about favorites lists, see http://example.com/favorite_lists.
-
+- API credentials for the v3.5 API. For more information about accessing your API credentials, see http://example.com/access_your_api_credentials.
+- Access to the Postman application.
+- A conceptual understanding about RESTful APIs. For more information, see http://example.com/restful_apis.
+- (Optional) A development environment (IDE) that displays API responses formatted for readability.
+- A list of favorites prepared, so you can manage them. For more information about favorites lists, see http://example.com/favorite_lists.
 ```
 
 ### The Part sections
@@ -66,14 +65,14 @@ Use either a structured style, or an informal style in this section.
 The structured approach features distinct headings for each step part:
 
 ```markdown
-Part One
-  Goal
-  Procedure
-  Outcome
-Part Two
-  Goal
-  Procedure
-  Outcome
+- Part One
+  - Goal
+  - Procedure
+  - Outcome
+- Part Two
+  - Goal
+  - Procedure
+  - Outcome
 ```
 
 This structure works well for beginners because it describes what each part teaches them, and what they should expect at the end of each part.
@@ -96,6 +95,6 @@ You get a more conversational flow with this tutorial style, although it loses s
 
 ## Tutorial examples
 
-* **Example 1**.
+- **Example 1**.
 
-* **Example 2**.
+- **Example 2**.

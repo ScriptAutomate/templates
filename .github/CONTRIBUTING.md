@@ -2,11 +2,11 @@
 
 We’d love your help.
 
-* Have you noticed something that could be improved?
-* Want to share your tech writing expertise?
-* Do you have material you'd like to integrate into our baseline?
-* Do you know of research which should be referenced?
-* Something else?
+- Have you noticed something that could be improved?
+- Want to share your tech writing expertise?
+- Do you have material you'd like to integrate into our baseline?
+- Do you know of research which should be referenced?
+- Something else?
 
 Please do reach out to us with your ideas.
 
@@ -76,19 +76,19 @@ For a glossary of git terms, see [The git glossary](https://mirrors.edge.kernel.
 1. Navigate to the [Good Docs Project](https://github.com/thegooddocsproject), and click the repository you want to fork.
 1. Click the `Fork` button in the top-right corner, and select the account you want to use.
 1. Wait for github to create your fork and redirect you.
-Take note of the repository you are now in, called `github.com/<your_username>/incubator`.
+   Take note of the repository you are now in, called `github.com/<your_username>/incubator`.
 
 When you have created the fork, you can clone the code to your local machine.
 
 #### Cloning the code
 
 1. Create a directory on your local filesystem to keep your work in.
-You can call it anything you like, but most people use `workspace` or something similar.
+   You can call it anything you like, but most people use `workspace` or something similar.
 1. In your browser, go to the github page for your fork.
-The URL will be `github.com/<your_username>/incubator`, or you can get to it by clicking on your user image from the main github page, and selecting `Your repositories`.
+   The URL will be `github.com/<your_username>/incubator`, or you can get to it by clicking on your user image from the main github page, and selecting `Your repositories`.
 1. Click the green `Code` download button, and copy the URL in the drop-down box.
 1. Open a terminal on your local machine, make sure you are in your `workspace` directory, and clone the URL you copied.
-Depending on how big the repository is, it could take some time to download.
+   Depending on how big the repository is, it could take some time to download.
 
    ```bash
    > cd ~/workspace
@@ -183,6 +183,7 @@ Now that you have your repository set up, you can create a branch to work on.
    ```
 
    This shows some output that indicates what changes have merged in to your fork.
+
 1. Create a new branch for the work you want to do.
    Make sure you give it an appropriate name, and include your username:
 
@@ -214,6 +215,7 @@ This makes it easier for you to track your own work, and also for reviewers look
    ```
 
    Don't forget the period at the end of this command!
+
 1. Commit the changes, and provide a short description of what's in the commit:
 
    ```bash
@@ -270,7 +272,7 @@ Make sure you visit [https://thegooddocsproject.dev/community.html](The Good Doc
 
 ### Style guide
 
-We use the [Google Style Guide](http://google.github.io/styleguide/) and American spelling, as per the [Merriam-Webster Online](https://www.merriam-webster.com/)  dictionary. If you’re used to working with such reference books, that’s great; if not, please contribute anyway, a tech writer will likely update your contribution later.
+We use the [Google Style Guide](http://google.github.io/styleguide/) and American spelling, as per the [Merriam-Webster Online](https://www.merriam-webster.com/) dictionary. If you’re used to working with such reference books, that’s great; if not, please contribute anyway, a tech writer will likely update your contribution later.
 
 ### Licenses
 
@@ -278,5 +280,5 @@ By contributing to this project we expect you to agree to the [Developer Certifi
 
 ## Contact us
 
-* Slack: [https://thegooddocs.slack.com/](https://thegooddocs.slack.com/)
-* Email list: [https://groups.io/g/thegooddocsproject/](https://groups.io/g/thegooddocsproject/)
+- Slack: [https://thegooddocs.slack.com/](https://thegooddocs.slack.com/)
+- Email list: [https://groups.io/g/thegooddocsproject/](https://groups.io/g/thegooddocsproject/)

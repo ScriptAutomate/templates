@@ -5,9 +5,9 @@ The purpose of reference articles is to describe the topic as consistently and a
 
 Reference articles work well when they are:
 
-* Consistent in structure, language, and tone
-* Contain descriptive information that is relevant to the reference topic's overview
-* Focus on information accuracy and the facts
+- Consistent in structure, language, and tone
+- Contain descriptive information that is relevant to the reference topic's overview
+- Focus on information accuracy and the facts
 
 ## Content of your reference article
 
@@ -15,9 +15,9 @@ Reference articles work well when they are:
 
 Summarize what the reader will achieve by reading the explanation article.
 
-* Are you writing for developers or for managers?
-* Are you writing for people who have a certain problem to solve?
-* Are you writing for a particular industry or market segment?
+- Are you writing for developers or for managers?
+- Are you writing for people who have a certain problem to solve?
+- Are you writing for a particular industry or market segment?
 
 Your overview should be descriptive of the subject you want to cover, so your audience can identify what the reference article is about.
 
@@ -40,6 +40,6 @@ If you need to provide more narrative style content to complement your API refer
 
 ## How-to article examples
 
-* **Example 1**.
+- **Example 1**.
 
-* **Example 2**.
+- **Example 2**.

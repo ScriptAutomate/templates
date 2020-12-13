@@ -25,6 +25,6 @@ Think about why you would want to query this parameter in the logs and what insi
 
 ## Logging examples
 
-* **Example 1**.
+- **Example 1**.
 
-* **Example 2**.
+- **Example 2**.

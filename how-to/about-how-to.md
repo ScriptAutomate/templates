@@ -16,9 +16,9 @@ New users who want to solve a problem instantly can also benefit, provided the H
 
 Summarize what the reader will achieve by reading the explanation article:
 
-* Are you writing for developers or for managers?
-* Are you writing for people who have a certain problem to solve?
-* Are you writing for a particular industry or market segment?
+- Are you writing for developers or for managers?
+- Are you writing for people who have a certain problem to solve?
+- Are you writing for a particular industry or market segment?
 
 Readers should already have read a concept about the topic in an About article.
 Ensure you link to the relevant About article in the overview.
@@ -37,12 +37,11 @@ For example:
 ```markdown
 Before you begin, make sure you meet these prerequisites:
 
-* API credentials for the v3.5 API. For more information about accessing your API credentials, see http://example.com/access_your_api_credentials.
-* Access to the Postman application.
-* A conceptual understanding about RESTful APIs. For more information, see http://example.com/restful_apis.
-* (Optional) A development environment (IDE) that displays API responses formatted for readability.
-* A list of favorites prepared, so you can manage them. For more information about favorites lists, see http://example.com/favorite_lists.
-
+- API credentials for the v3.5 API. For more information about accessing your API credentials, see http://example.com/access_your_api_credentials.
+- Access to the Postman application.
+- A conceptual understanding about RESTful APIs. For more information, see http://example.com/restful_apis.
+- (Optional) A development environment (IDE) that displays API responses formatted for readability.
+- A list of favorites prepared, so you can manage them. For more information about favorites lists, see http://example.com/favorite_lists.
 ```
 
 ### The Step-by-step guide sections
@@ -54,6 +53,6 @@ You can also use an ordered list structure without screenshots in markdown, with
 
 ## How To article examples
 
-* **Example 1**.
+- **Example 1**.
 
-* **Example 2**.
+- **Example 2**.

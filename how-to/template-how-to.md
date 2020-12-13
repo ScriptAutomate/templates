@@ -1,5 +1,6 @@
 <!-- Copy this Template. -->
 <!-- Describe the title of your article by replacing "How To Template" with the page name you want to publish to. -->
+
 # How To template
 
 ## Overview
@@ -10,11 +11,13 @@ How To articles primarily include tasks, and answer the question "how do I do it
 **Keywords:** Optional: add comma-separated keywords.
 
 ## Before you start
+
 <!-- Delete this section if your readers can go to the steps without requiring any prerequisite knowledge. -->
+
 Before you begin, make sure you meet these prerequisites:
 
-* Pre-requisite one
-* Pre-requisite two
+- Pre-requisite one
+- Pre-requisite two
 
 Include other important information here, such as known issues or bugs.
 
